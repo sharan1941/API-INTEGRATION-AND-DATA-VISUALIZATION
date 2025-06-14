@@ -25,3 +25,5 @@ The output of the project is a functional weather dashboard that visually repres
 Overall, this project demonstrates essential skills in API integration, JSON parsing, anddata visualization using Python. It showcases the ability to work with external data sources, process real-time information, and present it in a user-friendly format. The use of open-source tools like OpenWeatherMap, requests, and matplotlib ensures that the project remains lightweight and cost-effective while still being powerful and educational. The task was completed successfully according to the given instructions, and the resulting dashboard meets all the stated requirements. It serves as a practical example of how real-world data can be transformed into meaningful insights through code.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e8e131ce-2ec8-4928-bd67-e57694c46f5a)
